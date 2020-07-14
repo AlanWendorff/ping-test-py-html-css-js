@@ -8,7 +8,8 @@ therefore, the new UI was made with HTML and CSS, using Materialize library.
 
 (Features are the same that the other "Ping-Test" proyect); 
 
-Features: You can choose URL (it has to starts with "www." and ends with ".com") or IP adress to make ping;
+Features: 
+You can choose URL (it has to starts with "www." and ends with ".com") or IP adress to make ping;
 
 You can select the size of the package (32, 64, 128, 256, 512 and 1024 BYTES);
 
